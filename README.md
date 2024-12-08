@@ -10,6 +10,6 @@ I am always looking to learn new technologies and broaden my skillset, and I am 
 💞️ I’m looking to collaborate on open source projects.
 
 <!---
-irf-dev-toolkit/irf-dev-toolkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+irf-dev-toolkit/irfan-ir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
