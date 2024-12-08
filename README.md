@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Irfan Rayachuru (@irf-dev-toolkit)
+# 👋 Hi, I’m Irfan Rayachuru (@irfan-ir)
 I am a full stack web developer with experience in Javascript, AngularJS, Angular, React, Node.js, Python, Mongo, and AWS.
 
 I am passionate about building web applications that are fast, responsive, and easy to use. I have a strong foundation in front-end development, with a focus on creating user interfaces that are visually appealing and intuitive.
